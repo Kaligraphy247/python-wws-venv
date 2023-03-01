@@ -33,4 +33,4 @@
 <br><br>
 <img src="images/Screenshot 2023-03-01 at 9.18.01 AM.png" title="Memory Usage after ~150s" alt="Memory Usage after ~150s">
 <br><br>
-<img src="images/Screenshot 2023-03-01 at 9.15.38 AM.png" title="Memory Usage after ~150s" alt="Memory Usage after ~150s">
+<img src="images/Screenshot 2023-03-01 at 9.15.38 AM.png" title="CPU usage" alt="CPU usage">
