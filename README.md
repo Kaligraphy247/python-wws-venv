@@ -4,7 +4,7 @@
 
 > ### This Repo contains the exact same files used for this test.
 
-> ### If you do not want to use the same venv files or binaries in the repo,please clone the other? branch
+> ### If you do not want to use the same venv files or binaries in the repo, please switch to the `minimal` branch
 
 <br>
 
@@ -18,9 +18,10 @@
 ## Issue
 
 - When you run `wws` from a venv:
-  - Mac: Memrory usage increases over time, CPU usage is high but not maxed out.
+  - Mac: Memory usage increases over time, CPU usage is high but not maxed out.
   - Linux (Not extensively tested): CPU usage is maxed out, memory increases
-    over time but the pattern is unpredicatable.
+    over time but the pattern is unpredictable.
+- The venv does't need to be activated. It's the same either you activate it or not.
 
 ## Screenshots
 
